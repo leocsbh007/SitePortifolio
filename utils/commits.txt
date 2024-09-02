@@ -1,0 +1,15 @@
+date 02-09-2024
+Commit 1
+git commit -m "
+feat(utils): Create portfolio section 
+
+This commit introduces a new input portfolio section.
+
+- The function receives information from projects.
+- Contains projects with overlay behavior.
+
+This entry has an overlay behavior in the Portfolio section, leaving the page interactive and with a better experience for the user."
+
+Alteração de caminho repositorio
+
+git remote set-url origin https://github.com/leocsbh007/exLandingPage.git
